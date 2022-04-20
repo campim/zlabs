@@ -1,6 +1,8 @@
 # Zlabs
 Small OpenGL demo featuring light, rotation, characters on the screen and BASS music library for .MP3 files.
 
+Written in C++.
+
 This repository contains 3 files :
 
 Zlabs1.exe : 32-bit .exe file for windows platform featuring an small OpenGL demo.
